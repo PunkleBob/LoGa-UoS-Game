@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 322c208679c44354fae2b9db8fec66c3, type: 3}
+  m_Name: LogaEditorResources
+  m_EditorClassIdentifier: 
+  updateOnReloadScripts: 0
+  add:
+    normal: {fileID: 2800000, guid: 6734f22891a51fa4787ffc7702c7b629, type: 3}
+  add20:
+    normal: {fileID: 2800000, guid: 10cf1773c912c494fa215a1f65a1b41c, type: 3}
+  cross:
+    normal: {fileID: 2800000, guid: 9c3e04c2310d02b4ab82c857cb664ad8, type: 3}
+  customLUTEUI:
+    normal: {fileID: 0}
+  customLUTEUIText:
+    normal: {fileID: 0}
+  default100:
+    normal: {fileID: 2800000, guid: 93a2368be3ed45740870912b34a49ee3, type: 3}
+  diamond:
+    normal: {fileID: 2800000, guid: a92e86bb95002d647834e02edb72d2de, type: 3}
+  duplicate:
+    normal: {fileID: 2800000, guid: 19d7b8b8f921b34458beabfca0ea43ea, type: 3}
+  hamburgerMenu:
+    normal: {fileID: 2800000, guid: 0b69464f1c744eb429b5ce78289ba24a, type: 3}
+  keyIcon:
+    normal: {fileID: 2800000, guid: 19726cced070f084988c40c2dbecdd6c, type: 3}
+  lockIcon:
+    normal: {fileID: 2800000, guid: 9d444302ea516894bbb620b3b22a0a6e, type: 3}
+  maximise:
+    normal: {fileID: 2800000, guid: b1bd6a7c76746b54e829f1839619f769, type: 3}
+  minimise:
+    normal: {fileID: 2800000, guid: 9e9dd51f065e7dd4291b0f7e4c952b48, type: 3}
+  progress100:
+    normal: {fileID: 2800000, guid: 82fb92a372784b04db03ee645e87d3f1, type: 3}
+  progress100_new:
+    normal: {fileID: 0}
+  remove:
+    normal: {fileID: 2800000, guid: 432d9822191ea3244bdabb883af3541f, type: 3}
+  undiscovered100:
+    normal: {fileID: 2800000, guid: 93a2368be3ed45740870912b34a49ee3, type: 3}
+  undiscovered100_new:
+    normal: {fileID: 0}
+  logaFavicon:
+    normal: {fileID: 2800000, guid: f8cbee2d5a0500f4681c5505739bdb56, type: 3}
+  logaLogo:
+    normal: {fileID: 2800000, guid: ccc44370056c7b546b898b18f649fa12, type: 3}
+  logaLogoSquare:
+    normal: {fileID: 2800000, guid: dcf4ea5e55e089143be5e82cc90adc2a, type: 3}
+  choice_node_off:
+    normal: {fileID: 2800000, guid: 6427040dcc170204c9f77dbcf880f2af, type: 3}
+  choice_node_on:
+    normal: {fileID: 2800000, guid: f66532f78348c5b4aad4c2107fcb967e, type: 3}
+  connection_point:
+    normal: {fileID: 2800000, guid: 340513bb3b7f5a7429e0e0618766b1ac, type: 3}
+  cutePlayOrder:
+    normal: {fileID: 2800000, guid: b151dcb4893c8774581f32584dd66c59, type: 3}
+  dottedBox:
+    normal: {fileID: 2800000, guid: dd4ad4fbc844a8e428e7d61750921f76, type: 3}
+  event_node_off:
+    normal: {fileID: 2800000, guid: 12ab76f6c3d6b784ab19d848a7b5251a, type: 3}
+  event_node_on:
+    normal: {fileID: 2800000, guid: 0636a246ac7bbc941ac909792c2fc5d9, type: 3}
+  mapIcon:
+    normal: {fileID: 2800000, guid: 0958bf3dd415e974e90f978b50a845ee, type: 3}
+  order_background:
+    normal: {fileID: 2800000, guid: 3cff51493cd05b345bc696cfdd4ff830, type: 3}
+  play_big:
+    normal: {fileID: 2800000, guid: b151dcb4893c8774581f32584dd66c59, type: 3}
+  process_node_off:
+    normal: {fileID: 2800000, guid: cf56557b651f6484c9208b503be9ca71, type: 3}
+  process_node_on:
+    normal: {fileID: 2800000, guid: 25ac2c088c6d61e4e9c175d07a2491f2, type: 3}
+  stretchedNode:
+    normal: {fileID: 2800000, guid: a3f3e6bafc7150d478c26bb57838e475, type: 3}

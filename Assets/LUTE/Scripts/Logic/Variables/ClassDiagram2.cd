@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OrderInfoAttribute" Collapsed="true">
+    <Position X="42.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAEAABAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\Orders\Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Order" Collapsed="true">
+    <Position X="27.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIABCAAEAACQgAQIgAWUUAAAEABQgAAIAIAEUAAwAQg=</HashCode>
+      <FileName>Assets\Loga\Scripts\Orders\Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.MonoBehaviour" Collapsed="true">
+    <Position X="24.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Node" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQDFQFAgoCh0oQAQAYAIWAKAEAACggEIAIUBIgCEWA=</HashCode>
+      <FileName>Assets\Loga\Scripts\NarrativeEngine\Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderCopyBuffer" Collapsed="true">
+    <Position X="10.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAACAAAAAAAAAACAAABABAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\Comps\OrderCopyBuffer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Group" Collapsed="true">
+    <Position X="13" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\NarrativeEngine\Group.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dialogue" Collapsed="true">
+    <Position X="24.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CBAIAkAAAAMAgQAQCBiYAAAACAAAAFgAAJAAEAAqAAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\Orders\Dialogue\Dialogue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Choice" Collapsed="true">
+    <Position X="33.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAEgAgAACAAAICCAIAAAAAAIgAAIAIAAAAAAIAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\Orders\Choice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChoiceTimer" Collapsed="true">
+    <Position X="28.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABCAAAAAQAAIgCAAAICAABAAAAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\Orders\ChoiceTimer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BasicFlowEngine" Collapsed="true">
+    <Position X="17.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SJBAJkCAzoBgkEKAIBEAEARYACYqCGSPUASMBkAcaAw=</HashCode>
+      <FileName>Assets\Loga\Scripts\NarrativeEngine\BasicFlowEngine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Popup" Collapsed="true">
+    <Position X="8.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MCAAARJAABACQAAAAAAAAAIDgAECIAABAAAAADBAAEM=</HashCode>
+      <FileName>Assets\Loga\Scripts\Comps\Popup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomPopup" Collapsed="true">
+    <Position X="8.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Assets\Loga\Scripts\Comps\CustomPopup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PopupMenu" Collapsed="true">
+    <Position X="22" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAEAAAAACAAAAAAAAAAgAAAAAAAAAIAgAAAAAAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\Orders\PopupMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EventHandler" Collapsed="true">
+    <Position X="39" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAACAAAAQAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\Comps\EventHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameStarted" Collapsed="true">
+    <Position X="37.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAACAAAAAAAgCAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\EventHandlers\GameStarted.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UpdateEventHandler" Collapsed="true">
+    <Position X="40" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAgAAAAAAAAAAIAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\EventHandlers\UpdateEventHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RunawayMenu" Collapsed="true">
+    <Position X="26.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAQAIAAAAAAAAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\Orders\UserCreated\RunawayMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RunawayPopup" Collapsed="true">
+    <Position X="15.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\Comps\RunawayPopup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DialogueBox" Collapsed="true">
+    <Position X="19.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IKBBAQCkACAAwIAAgAAAICiEAAEEAAADIQhQIIDIEEQ=</HashCode>
+      <FileName>Assets\Loga\Scripts\Orders\Dialogue\DialogueBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuDialogue" Collapsed="true">
+    <Position X="35.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAQAQJAAAACQAAAEgAAAAIBAgkAIAABIAEAAJBAGGI=</HashCode>
+      <FileName>Assets\Loga\Scripts\Comps\MenuDialogue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wait" Collapsed="true">
+    <Position X="31" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAABCAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\Orders\Wait.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ExecutionState" Collapsed="true">
+    <Position X="42.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\NarrativeEngine\Node.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

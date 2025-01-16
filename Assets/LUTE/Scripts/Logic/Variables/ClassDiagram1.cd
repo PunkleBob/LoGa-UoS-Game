@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access" MembersFormat="NameAndType">
+  <Class Name="OrderInfoAttribute" Collapsed="true">
+    <Position X="13.5" Y="6.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAEAABAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\Orders\Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Order" Collapsed="true">
+    <Position X="11.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIABCAAEAACQgAQIgAWUUAAAEABQoAAIAIAEUAAwAQg=</HashCode>
+      <FileName>Assets\Loga\Scripts\Orders\Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.MonoBehaviour" Collapsed="true">
+    <Position X="11.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Node" Collapsed="true">
+    <Position X="11.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ojRDFQlQgoCh8pQAQQIAIXAOAEAAiggEIAIUBIomEWA=</HashCode>
+      <FileName>Assets\Loga\Scripts\NarrativeEngine\Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderCopyBuffer" Collapsed="true">
+    <Position X="10.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAACAAAAAAAAAACAAABABAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\Comps\OrderCopyBuffer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Group" Collapsed="true">
+    <Position X="12.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAgAAAAAAABAAAICAAAAAgAJAAAACgAAAAAAAAAIA=</HashCode>
+      <FileName>Assets\Loga\Scripts\NarrativeEngine\Group.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dialogue" Collapsed="true">
+    <Position X="10.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CBAIAkAAAAMAgQAQCBiYAAAACAAAAFgAAJAAEAAqAAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\Orders\Dialogue\Dialogue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Choice" Collapsed="true">
+    <Position X="13.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAEgAgAACAAAICCAIAAAAAAIgAAIAIAAAAAAIAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\Orders\Choice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChoiceTimer" Collapsed="true">
+    <Position X="12" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABCAAAAAQAAIgCAAAICAABAAAAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\Orders\ChoiceTimer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BasicFlowEngine" Collapsed="true">
+    <Position X="11.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SJBAJsiAzoBgkFLAYnEoEAZYiG5qCGTPWASNDkAcaAw=</HashCode>
+      <FileName>Assets\Loga\Scripts\NarrativeEngine\BasicFlowEngine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Popup" Collapsed="true">
+    <Position X="3.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MCAAARJAABACQABAAAAAAIIDgAECIAABAAAAALBAAEM=</HashCode>
+      <FileName>Assets\Loga\Scripts\Comps\Popup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomPopup" Collapsed="true">
+    <Position X="3.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Assets\Loga\Scripts\Comps\CustomPopup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PopupMenu" Collapsed="true">
+    <Position X="8.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAEAAAAACAAAAAAAAAAgAAAAAAAAAIAgAAAAAAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\Orders\PopupMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EventHandler" Collapsed="true">
+    <Position X="13.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAACAAAAQAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\Comps\EventHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameStarted" Collapsed="true">
+    <Position X="16.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAACAAAAAAAgCAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\EventHandlers\GameStarted.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UpdateEventHandler" Collapsed="true">
+    <Position X="16.25" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAgAAAAAAAAAAIAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\EventHandlers\UpdateEventHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuDialogue" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAQAQJAAAACQABAEgAAAIIBAgkAIAABIAEAAJBAGGI=</HashCode>
+      <FileName>Assets\Loga\Scripts\Comps\MenuDialogue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DialogueBox" Collapsed="true">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IKBBAQCkACAAwIAAgAAAICiEAAEEAAADIQhQIIDIEEQ=</HashCode>
+      <FileName>Assets\Loga\Scripts\Orders\Dialogue\DialogueBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wait" Collapsed="true">
+    <Position X="15.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAABCAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\Orders\Wait.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnnotationLine" Collapsed="true">
+    <Position X="18.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQIAAAACACAAAIAgAACAAAAgAAAAIAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\NarrativeEngine\AnnotationLine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Annotation" Collapsed="true">
+    <Position X="18.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAACBAAAAgQAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\NarrativeEngine\Annotation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnnotationBox" Collapsed="true">
+    <Position X="16.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAABAAAAAAAABAAAAAAgAAAAIgAAAAEAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Loga\Scripts\NarrativeEngine\AnnotationBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Label" Collapsed="true">
+    <Position X="20.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIFAAAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\NarrativeEngine\Label.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mapbox.Examples.SpawnOnMap" Collapsed="true">
+    <Position X="9" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAAAADAAAAAEQZAAQESAAAQSBBgAAEQAAAQAAAI=</HashCode>
+      <FileName>Assets\ThirdPartyAssets\Mapbox\Examples\6_ZoomableMap\Scripts\SpawnOnMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LocationVariable" Collapsed="true">
+    <Position X="1.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgEAAIBAAAAAAAAAABgAAAABAAAAAAAAAAgIAAAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\Logic\Variables\LocationVariable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseVariable&lt;T&gt;" Collapsed="true">
+    <Position X="1.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIDBAAAAMAAAAAgAgAAAAACAAAAAgAAIgAAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\Comps\Logic\Variable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Variable" Collapsed="true">
+    <Position X="1.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIBAAACQAAAAkAgAAAAAAAAAAIAAEAAIgAAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\Comps\Logic\Variable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntegerVariable" Collapsed="true">
+    <Position X="3.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAgAAAAAAAAAAIAAAAAIAAAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\Logic\Variables\IntegerVariable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="If" Collapsed="true">
+    <Position X="6.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\Orders\Logic\If.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VariableCondition" Collapsed="true">
+    <Position X="6.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAMBAAAAAwMAAAAAGAFAIAEAAAAAAAAIAAFAAsAAQ=</HashCode>
+      <FileName>Assets\Loga\Scripts\Orders\Logic\VariableCondition.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Condition" Collapsed="true">
+    <Position X="6.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAiHBAAAFAAAAEmAAAgAAAAAAAAAAIAAAQAIAAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\Orders\Logic\Condition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryVariable" Collapsed="true">
+    <Position X="5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\Logic\Variables\InventoryVariable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddItem" Collapsed="true">
+    <Position X="17.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAIAAASAAAAAAAAAgAAAAIAAQAAAAAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\Orders\UserCreated\AddItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryMenu" Collapsed="true">
+    <Position X="19" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAEAAAAAAAAAABCAAAAAAAAAAAACAIAAAAAAAAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\Orders\UserCreated\InventoryMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mapbox.Unity.Map.AbstractMap" Collapsed="true">
+    <Position X="20.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hbSB0YAAxaMYTXNUkGAgAUUkANAQJSBUXEPi0A9kjVE=</HashCode>
+      <FileName>Assets\ThirdPartyAssets\Mapbox\Unity\Map\AbstractMap.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Enum Name="ExecutionState" Collapsed="true">
+    <Position X="13.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Loga\Scripts\NarrativeEngine\Node.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

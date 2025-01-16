@@ -2,15 +2,18 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
-  tags: []
+  serializedVersion: 3
+  tags:
+  - ToolCam
+  - Map
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Map
   - Water
   - UI
+  - 3DItems
   - 
   - 
   - 
@@ -34,10 +37,17 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
+  - XR Simulation
   - 
   m_SortingLayers:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Logo
+    uniqueID: 830121435
+    locked: 0
+  - name: Main Menu
+    uniqueID: 4182058763
+    locked: 0
+  m_RenderingLayers:
+  - Default
