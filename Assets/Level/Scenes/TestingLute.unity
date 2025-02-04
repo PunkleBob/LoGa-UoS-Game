@@ -1007,15 +1007,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8642065374393819403, guid: ba9b3434c907a5948a27e87a2fde18d9, type: 3}
       propertyPath: zoom
-      value: 0.5500005
+      value: 0.58000046
       objectReference: {fileID: 0}
     - target: {fileID: 8642065374393819403, guid: ba9b3434c907a5948a27e87a2fde18d9, type: 3}
       propertyPath: scrollPos.x
-      value: 1068.145
+      value: 1432.2301
       objectReference: {fileID: 0}
     - target: {fileID: 8642065374393819403, guid: ba9b3434c907a5948a27e87a2fde18d9, type: 3}
       propertyPath: scrollPos.y
-      value: 61.60904
+      value: 220.05981
       objectReference: {fileID: 0}
     - target: {fileID: 8642065374393819403, guid: ba9b3434c907a5948a27e87a2fde18d9, type: 3}
       propertyPath: nodeViewHeight
@@ -1064,7 +1064,7 @@ PrefabInstance:
     - target: {fileID: 8642065374393819403, guid: ba9b3434c907a5948a27e87a2fde18d9, type: 3}
       propertyPath: 'selectedNodes.Array.data[0]'
       value: 
-      objectReference: {fileID: 2008556865}
+      objectReference: {fileID: 0}
     - target: {fileID: 8642065374393819403, guid: ba9b3434c907a5948a27e87a2fde18d9, type: 3}
       propertyPath: 'selectedNodes.Array.data[1]'
       value: 
@@ -1326,15 +1326,6 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 1480580420229521923, guid: ba9b3434c907a5948a27e87a2fde18d9, type: 3}
       insertIndex: -1
       addedObject: {fileID: 2008556801}
-    - targetCorrespondingSourceObject: {fileID: 1480580420229521923, guid: ba9b3434c907a5948a27e87a2fde18d9, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 2008556800}
-    - targetCorrespondingSourceObject: {fileID: 1480580420229521923, guid: ba9b3434c907a5948a27e87a2fde18d9, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 2008556799}
-    - targetCorrespondingSourceObject: {fileID: 1480580420229521923, guid: ba9b3434c907a5948a27e87a2fde18d9, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 2008556798}
     - targetCorrespondingSourceObject: {fileID: 1480580420229521923, guid: ba9b3434c907a5948a27e87a2fde18d9, type: 3}
       insertIndex: -1
       addedObject: {fileID: 2008556797}
@@ -2466,7 +2457,6 @@ MonoBehaviour:
   targetKeyNode: {fileID: 0}
   showDesc: 0
   saveable: 0
-  nodeConditions: []
   NodeComplete: 0
 --- !u!114 &2008556751
 MonoBehaviour:
@@ -2507,7 +2497,6 @@ MonoBehaviour:
   targetKeyNode: {fileID: 0}
   showDesc: 0
   saveable: 0
-  nodeConditions: []
   NodeComplete: 0
 --- !u!114 &2008556752 stripped
 MonoBehaviour:
@@ -2607,7 +2596,6 @@ MonoBehaviour:
   targetKeyNode: {fileID: 0}
   showDesc: 0
   saveable: 0
-  nodeConditions: []
   NodeComplete: 0
 --- !u!114 &2008556757
 MonoBehaviour:
@@ -2664,7 +2652,6 @@ MonoBehaviour:
   targetKeyNode: {fileID: 0}
   showDesc: 0
   saveable: 0
-  nodeConditions: []
   NodeComplete: 0
 --- !u!114 &2008556759
 MonoBehaviour:
@@ -2933,7 +2920,6 @@ MonoBehaviour:
   targetKeyNode: {fileID: 0}
   showDesc: 0
   saveable: 0
-  nodeConditions: []
   NodeComplete: 0
 --- !u!114 &2008556771
 MonoBehaviour:
@@ -3040,7 +3026,6 @@ MonoBehaviour:
   targetKeyNode: {fileID: 0}
   showDesc: 0
   saveable: 0
-  nodeConditions: []
   NodeComplete: 0
 --- !u!114 &2008556774
 MonoBehaviour:
@@ -3208,7 +3193,6 @@ MonoBehaviour:
   targetKeyNode: {fileID: 0}
   showDesc: 0
   saveable: 0
-  nodeConditions: []
   NodeComplete: 0
 --- !u!114 &2008556781
 MonoBehaviour:
@@ -3263,7 +3247,6 @@ MonoBehaviour:
   targetKeyNode: {fileID: 0}
   showDesc: 0
   saveable: 0
-  nodeConditions: []
   NodeComplete: 0
 --- !u!114 &2008556784
 MonoBehaviour:
@@ -3437,7 +3420,6 @@ MonoBehaviour:
   targetKeyNode: {fileID: 0}
   showDesc: 0
   saveable: 0
-  nodeConditions: []
   NodeComplete: 0
 --- !u!114 &2008556792
 MonoBehaviour:
@@ -3487,7 +3469,6 @@ MonoBehaviour:
   targetKeyNode: {fileID: 0}
   showDesc: 0
   saveable: 0
-  nodeConditions: []
   NodeComplete: 0
 --- !u!114 &2008556794
 MonoBehaviour:
@@ -3589,80 +3570,6 @@ MonoBehaviour:
   targetKeyNode: {fileID: 0}
   showDesc: 0
   saveable: 0
-  nodeConditions: []
-  NodeComplete: 0
---- !u!114 &2008556798
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2008556744}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f38c0eb32b6f8e6488f591c0813b73db, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  parentNode: {fileID: 2008556800}
-  waitForFrames: 1
---- !u!114 &2008556799
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2008556744}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: beebfba694520fc4ba238e69760d3200, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  customButtonIcon: {fileID: 21300000, guid: a06bae358f5e9054da7f3c6e2377645a, type: 3}
-  setIconButton: {fileID: 0}
-  showIcon: 1
-  buttonFeedback: {fileID: 0}
-  buttonEvent:
-    m_PersistentCalls:
-      m_Calls: []
-  buttonSound: {fileID: 0}
-  inventory: {fileID: 0}
---- !u!114 &2008556800
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2008556744}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cc9f689a21732a34489f55c1ed82a919, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  nodeRect:
-    serializedVersion: 2
-    x: -788
-    y: -66
-    width: 208.95
-    height: 40
-  nodeName: Inventory Toggle (Blueprint)
-  nodeDescription: Basic toggle to show inventory
-  groupDescription: A series of nodes that can be executed as a group
-  itemId: 1
-  orderList:
-  - {fileID: 2008556799}
-  eventHandler: {fileID: 2008556798}
-  isGrouped: 0
-  groupIndex: -1
-  repeatable: 0
-  nodeLocation: {fileID: 0}
-  tint: {r: 1, g: 1, b: 1, a: 1}
-  useCustomTint: 0
-  hoverStartTime: 0
-  targetUnlockNode: {fileID: 0}
-  targetKeyNode: {fileID: 0}
-  showDesc: 0
-  saveable: 0
-  nodeConditions: []
   NodeComplete: 0
 --- !u!114 &2008556801
 MonoBehaviour:
@@ -3734,7 +3641,6 @@ MonoBehaviour:
   targetKeyNode: {fileID: 0}
   showDesc: 0
   saveable: 0
-  nodeConditions: []
   NodeComplete: 0
 --- !u!114 &2008556804
 MonoBehaviour:
@@ -3871,7 +3777,6 @@ MonoBehaviour:
   targetKeyNode: {fileID: 0}
   showDesc: 0
   saveable: 0
-  nodeConditions: []
   NodeComplete: 0
 --- !u!114 &2008556810
 MonoBehaviour:
@@ -3960,7 +3865,6 @@ MonoBehaviour:
   targetKeyNode: {fileID: 0}
   showDesc: 0
   saveable: 0
-  nodeConditions: []
   NodeComplete: 0
 --- !u!114 &2008556812
 MonoBehaviour:
@@ -4393,9 +4297,8 @@ MonoBehaviour:
   hoverStartTime: 0
   targetUnlockNode: {fileID: 0}
   targetKeyNode: {fileID: 0}
-  showDesc: 1
+  showDesc: 0
   saveable: 0
-  nodeConditions: []
   NodeComplete: 0
   groupedNodes:
   - {fileID: 2008556751}
@@ -4818,7 +4721,6 @@ MonoBehaviour:
   targetKeyNode: {fileID: 0}
   showDesc: 0
   saveable: 0
-  nodeConditions: []
   NodeComplete: 0
 --- !u!114 &2008556853
 MonoBehaviour:
@@ -5119,7 +5021,6 @@ MonoBehaviour:
   targetKeyNode: {fileID: 0}
   showDesc: 0
   saveable: 0
-  nodeConditions: []
   NodeComplete: 0
 --- !u!114 &2008556866
 MonoBehaviour:
@@ -5421,7 +5322,6 @@ MonoBehaviour:
   targetKeyNode: {fileID: 0}
   showDesc: 0
   saveable: 0
-  nodeConditions: []
   NodeComplete: 0
 --- !u!114 &2008556879
 MonoBehaviour:
@@ -5722,7 +5622,6 @@ MonoBehaviour:
   targetKeyNode: {fileID: 0}
   showDesc: 0
   saveable: 0
-  nodeConditions: []
   NodeComplete: 0
 --- !u!114 &2008556892
 MonoBehaviour:
@@ -6062,7 +5961,6 @@ MonoBehaviour:
   targetKeyNode: {fileID: 0}
   showDesc: 0
   saveable: 0
-  nodeConditions: []
   NodeComplete: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:

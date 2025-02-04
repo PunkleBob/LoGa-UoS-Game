@@ -1582,6 +1582,7 @@ GameObject:
   - component: {fileID: 1204839867}
   - component: {fileID: 1204839866}
   - component: {fileID: 1204839865}
+  - component: {fileID: 1204839869}
   m_Layer: 0
   m_Name: BasicFlowEngine
   m_TagString: Untagged
@@ -1617,8 +1618,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 490
-    y: 215
+    x: 470
+    y: 115
     width: 80.63
     height: 40
   nodeName: Node
@@ -1657,7 +1658,8 @@ MonoBehaviour:
   hideComponents: 0
   localizationId: 
   selectedOrders: []
-  selectedNodes: []
+  selectedNodes:
+  - {fileID: 1204839869}
   nodeViewHeight: 400
   hideOrders: []
   variables: []
@@ -1672,7 +1674,7 @@ MonoBehaviour:
   showAnnotations: 1
   labelTint: {r: 1, g: 1, b: 1, a: 1}
   zoom: 1
-  scrollPos: {x: 0, y: 0}
+  scrollPos: {x: -1, y: -1}
   version: 1
   sidesOfDie: 6
   postcards: []
@@ -1693,6 +1695,42 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1204839869
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1204839864}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc9f689a21732a34489f55c1ed82a919, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: 644
+    y: 108
+    width: 89.58
+    height: 40
+  nodeName: Node 1
+  nodeDescription: Basic building block of a narrative engine
+  groupDescription: A series of nodes that can be executed as a group
+  itemId: 0
+  orderList: []
+  eventHandler: {fileID: 0}
+  isGrouped: 0
+  groupIndex: -1
+  repeatable: 0
+  nodeLocation: {fileID: 0}
+  tint: {r: 1, g: 1, b: 1, a: 1}
+  useCustomTint: 0
+  hoverStartTime: 0
+  targetUnlockNode: {fileID: 0}
+  targetKeyNode: {fileID: 0}
+  showDesc: 0
+  saveable: 0
+  NodeComplete: 0
 --- !u!1 &1225485800
 GameObject:
   m_ObjectHideFlags: 0
