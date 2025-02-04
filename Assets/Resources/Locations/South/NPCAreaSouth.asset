@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5b4ddc75f9f1b3043893d0de76d49f2c, type: 3}
-  m_Name: BuriedStoneNorth4.2 1
+  m_Name: NPCAreaSouth
   m_EditorClassIdentifier: 
-  infoID: 6303d781-6c66-4a73-9c2f-a284e6e70f11
-  Position: 51.429347043513445, -1.8535008473732089
-  Name: Buried Stone North 4.2
+  infoID: 1261de6e-6e98-4f39-ba6f-fd87ec28eef3
+  Position: 51.429371561452996, -1.8520723342671312
+  Name: NPC Area North
   Sprite: {fileID: 0}
   InProgressSprite: {fileID: 0}
   CompletedSprite: {fileID: 0}
