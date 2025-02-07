@@ -280,7 +280,7 @@ public class SelfieSegmentationSample : MonoBehaviour
             DontDestroyOnLoad(gameObject);
 
             // Load the next scene
-            UnityEngine.SceneManagement.SceneManager.LoadScene(1);
+            // UnityEngine.SceneManagement.SceneManager.LoadScene(1);
         }
 
         // Update the output view with the result texture
