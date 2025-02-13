@@ -92,6 +92,11 @@ public class SelfieSegmentationSample : MonoBehaviour
     private void DrawContourWithRenderer(List<Vector2> contour, Camera cam)
     {
 
+        //if contour is empty, return
+        if (contour.Count == 0)
+        {
+            return;
+        }
 
         //get previous game object ContourLine if there is and delete it
         GameObject previousContourLine = GameObject.Find("ContourLine");

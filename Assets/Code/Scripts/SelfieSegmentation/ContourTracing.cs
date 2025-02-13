@@ -29,7 +29,7 @@ public static class ContourTracing
 
         if (!foundStart)
         {
-            Debug.LogError("No white pixels found in the mask.");
+            Debug.LogWarning("No white pixels found in the mask.");
             return contourPoints; // Return empty list if no starting point found
         }
 
